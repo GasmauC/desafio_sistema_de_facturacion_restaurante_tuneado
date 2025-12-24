@@ -11,7 +11,7 @@ Este proyecto combina lógica de negocio robusta con un diseño de interfaz de a
 
 ## 📸 Interfaz Moderna
 *(¡Tu captura de pantalla va aquí! Muestra ese elegante modo oscuro)*
-![Screenshot del Sistema](ruta_a_tu_imagen.png)
+![Screenshot del Sistema](C:\Users\Usuario\Desktop\python_total\sitema_facturacion\app.jpg)
 
 ## ✨ Novedades Visuales (UI/UX)
 
