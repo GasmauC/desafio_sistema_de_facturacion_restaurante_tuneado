@@ -10,7 +10,7 @@ Este proyecto combina lógica de negocio robusta con un diseño de interfaz de a
 ![Theme](https://img.shields.io/badge/Tema-Dark_Mode-black)
 
 ## 📸 Interfaz Moderna
-*(¡Tu captura de pantalla va aquí! Muestra ese elegante modo oscuro)*
+
 ![Screenshot del Sistema](app.jpg)
 
 ## ✨ Novedades Visuales (UI/UX)
